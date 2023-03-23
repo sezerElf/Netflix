@@ -1,7 +1,6 @@
 import { useState } from "react";
 import Head from "../components/Navbar";
 import Footer from "../components/Footer";
-import { Container, Form } from "react-bootstrap";
 import MovieCard from "../components/MovieCard";
 import data from "../data.json";
 import SearchandSort from "../components/SearchandSort";
